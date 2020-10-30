@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to the page!
-  ```
+  ```C#
   adamGriswold() 
   {
     Professionally = Career.SoftwareDeveloper,
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     {
       Hobby.Music,
       Hobby.Audio,
+      Hobby.Camping,
       Hobby.Photography
     }
   };
