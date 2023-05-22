@@ -21,7 +21,8 @@ I love bringing extra flair ✨ to my designs by adding attention to how photos 
 
 <sub>If you have any questions/feedback, do not hesitate to reach out to me!</sub>
 
-<br></br>
+## 👀 Be on the lookout!
+I've got some big plans for this channel in the coming future, so keep an eye out for that!
 
 ## Technical skills
 
@@ -65,8 +66,6 @@ I love bringing extra flair ✨ to my designs by adding attention to how photos 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -->
 
-<br></br>
-
 ### 🖌️ Design
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -87,11 +86,6 @@ I love bringing extra flair ✨ to my designs by adding attention to how photos 
 
 <br></br>
 
-## 👀 Be on the lookout!
-I've got some big plans for this channel in the coming future, so keep an eye out for that!
-
-<br></br>
-<br></br>
 
 #
 💿 Current digs
